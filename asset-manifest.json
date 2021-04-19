@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.bb560958.chunk.css",
-    "main.js": "/static/js/main.bd1285c0.chunk.js",
-    "main.js.map": "/static/js/main.bd1285c0.chunk.js.map",
+    "main.js": "/static/js/main.5c0c4a18.chunk.js",
+    "main.js.map": "/static/js/main.5c0c4a18.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.22c3df4a.js",
     "runtime-main.js.map": "/static/js/runtime-main.22c3df4a.js.map",
     "static/css/2.d217cec2.chunk.css": "/static/css/2.d217cec2.chunk.css",
-    "static/js/2.09ec7d7c.chunk.js": "/static/js/2.09ec7d7c.chunk.js",
-    "static/js/2.09ec7d7c.chunk.js.map": "/static/js/2.09ec7d7c.chunk.js.map",
+    "static/js/2.4a8726bf.chunk.js": "/static/js/2.4a8726bf.chunk.js",
+    "static/js/2.4a8726bf.chunk.js.map": "/static/js/2.4a8726bf.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d217cec2.chunk.css.map": "/static/css/2.d217cec2.chunk.css.map",
     "static/css/main.bb560958.chunk.css.map": "/static/css/main.bb560958.chunk.css.map",
-    "static/js/2.09ec7d7c.chunk.js.LICENSE.txt": "/static/js/2.09ec7d7c.chunk.js.LICENSE.txt",
+    "static/js/2.4a8726bf.chunk.js.LICENSE.txt": "/static/js/2.4a8726bf.chunk.js.LICENSE.txt",
     "static/media/event-icon.6a865c1f.png": "/static/media/event-icon.6a865c1f.png",
     "static/media/ibouge-home-logo.ef0052a1.png": "/static/media/ibouge-home-logo.ef0052a1.png",
     "static/media/ibouge-logo.45d119ce.png": "/static/media/ibouge-logo.45d119ce.png",
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.22c3df4a.js",
     "static/css/2.d217cec2.chunk.css",
-    "static/js/2.09ec7d7c.chunk.js",
+    "static/js/2.4a8726bf.chunk.js",
     "static/css/main.bb560958.chunk.css",
-    "static/js/main.bd1285c0.chunk.js"
+    "static/js/main.5c0c4a18.chunk.js"
   ]
 }
